@@ -14,5 +14,5 @@
  *= require_self
  */
 
-@import "bootstrap";
+@import "bootstrap/dist/css/bootstrap.css";
 body { background: #f8f0e6; }
